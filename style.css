@@ -16,7 +16,7 @@
 }
 
 .box{
-    width: 40vw;
+    /* width: 40vw; */
     /* border: 1px solid black; */
     display: flex;
     flex-direction: column;
@@ -45,7 +45,7 @@
 }
 
 .color{
-    /* font-size: 1.25rem; */
+    font-size: 1.25rem;
     color: #fff;
     background: rgba(0, 0, 0, 0.132);
     box-shadow: 0 0 3px white;
