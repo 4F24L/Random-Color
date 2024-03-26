@@ -10,8 +10,7 @@ function ranColor(){
     bgColor.style.backgroundColor = bgRandom;
 
     document.querySelector(".color").innerHTML = bgRandom;
+    // document.querySelector(".color").style.color = bgRandom;
+
 
 }
-
-
-
